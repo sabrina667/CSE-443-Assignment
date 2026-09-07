@@ -103,12 +103,3 @@ Matplotlib
 Seaborn
 Scikit-learn
 Google Colab
-Conclusion
-
-A CNN model was successfully developed for classifying chest X-ray images into Normal and Pneumonia categories.
-
-The model achieved 80.13% test accuracy, 77.25% precision, 96.67% recall, and 85.88% F1-score.
-
-The experiment demonstrates that CNNs can learn useful visual patterns from medical images and perform image classification.
-
-This project is intended for academic purposes and should not be considered a clinical diagnostic system.
